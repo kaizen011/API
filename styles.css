@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(to bottom, #87CEEB, #B0E0E6, #ADD8E6, #87CEEB);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+    width: 100vh;
+    margin: 0;
+    padding: 0;
+}
+div{
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+button{
+    color:cornflowerblue;
+    width: 250px;
+    height: 125px;
+}
